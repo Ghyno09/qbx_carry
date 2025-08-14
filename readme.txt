@@ -1,0 +1,5 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'Rhys_dev'
+lua54 'yes'
+version '1.0'
